@@ -68,7 +68,7 @@
 }
 
 .hero-button {
-  background-color: #0011ff;
+  background-color: #F97B22;
   color: #fff;
   padding: 1rem 2rem;
   font-size: 1.2rem;
